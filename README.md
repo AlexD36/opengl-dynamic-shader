@@ -128,5 +128,3 @@ main.exe
 
 3. **Shader Compilation Errors:**
    - Check for detailed error messages in the console.
-
----
