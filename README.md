@@ -41,3 +41,88 @@ This project demonstrates a dynamic particle effect shader built with OpenGL. Th
 
 ## Project Structure
 
+```
+OpenGL-Dynamic-Shader/
+├── src/
+│   ├── main.cpp               # Main application source code
+│   └── shaders/
+│       ├── vertex_shader.glsl # Vertex shader
+│       └── fragment_shader.glsl # Fragment shader
+├── include/                   # External library headers
+└── build/                     # Build files
+```
+
+---
+
+## Installation
+
+### Clone the Repository
+```bash
+git clone https://github.com/AlexD36/opengl-dynamic-shader.git
+cd opengl-dynamic-shader
+```
+
+### Install Dependencies
+
+#### On Linux (Ubuntu/Debian):
+```bash
+sudo apt-get install libglfw3-dev libglew-dev
+```
+
+#### On Windows/macOS:
+Download and install the required libraries from their official websites.
+
+### Build the Project
+
+#### On Linux/macOS:
+```bash
+g++ -o main src/main.cpp -lGL -lGLEW -lglfw -std=c++11
+```
+
+#### On Windows (using MinGW):
+```bash
+g++ -o main.exe src/main.cpp -lglew32 -lglfw3 -lopengl32 -std=c++11
+```
+
+### Run the Application
+
+#### On Linux/macOS:
+```bash
+./main
+```
+
+#### On Windows:
+```bash
+main.exe
+```
+
+---
+
+## Usage
+
+1. Start the application from your terminal or IDE.
+2. Use the following controls to interact:
+   - **Keyboard:**
+     - Adjust zoom and intensity with arrow keys.
+     - Change animation duration with `W`/`S`.
+   - **Mouse:**
+     - Move to control zoom and duration.
+3. Enjoy the dynamic particle effect in the OpenGL window.
+
+---
+
+## Troubleshooting
+
+### Common Issues
+
+1. **Error 0xc000007b (Windows):**
+   - Ensure GLEW and GLFW libraries are installed correctly.
+   - Check if you are using the appropriate versions (32-bit or 64-bit) matching your system.
+
+2. **OpenGL Version Unsupported:**
+   - Update your GPU drivers to the latest version.
+
+3. **Shader Compilation Errors:**
+   - Check for detailed error messages in the console.
+
+---
