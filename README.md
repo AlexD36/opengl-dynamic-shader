@@ -8,9 +8,8 @@
 
 This project demonstrates a dynamic particle effect shader built with OpenGL. The application features interactive controls that allow users to modify the visual appearance of the shader in real-time. The shader showcases continuous color transitions and particle effects, creating a dynamic and engaging visualization.
 
-![Uploading DynamicOpenGLShader2025-01-1417-37-00-ezgif.com-video-to-gif-converter.gif…]()
 
-
+https://github.com/user-attachments/assets/6df2f943-9d38-4a56-8e04-53ce8784840
 
 ---
 
