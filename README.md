@@ -1,5 +1,9 @@
 # OpenGL Dynamic Shader
 
+![OpenGL](https://img.shields.io/badge/OpenGL-3.3+-blue?style=flat-square)
+![GLFW](https://img.shields.io/badge/GLFW-3.x-green?style=flat-square)
+![GLEW](https://img.shields.io/badge/GLEW-2.x-orange?style=flat-square)
+
 ## Overview
 
 This project demonstrates a dynamic particle effect shader built with OpenGL. The application features interactive controls that allow users to modify the visual appearance of the shader in real-time. The shader showcases continuous color transitions and particle effects, creating a dynamic and engaging visualization.
