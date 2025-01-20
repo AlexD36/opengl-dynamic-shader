@@ -25,8 +25,6 @@ https://github.com/user-attachments/assets/d0c195fe-1586-4285-a18a-62088a579e3b
    - **Keyboard Controls:**
      - Arrow keys to adjust zoom and intensity.
      - `W`/`S` to change animation duration.
-   - **Mouse Controls:**
-     - Move the mouse to control zoom and duration.
 
 3. **Performance:**
    - Runs smoothly at 60 FPS (hardware permitting).
@@ -114,8 +112,6 @@ main.exe
    - **Keyboard:**
      - Adjust zoom and intensity with arrow keys.
      - Change animation duration with `W`/`S`.
-   - **Mouse:**
-     - Move to control zoom and duration.
 3. Enjoy the dynamic particle effect in the OpenGL window.
 
 ---
