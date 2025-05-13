@@ -11,8 +11,9 @@ This project demonstrates a dynamic particle effect shader built with OpenGL. Th
 
 
 https://github.com/user-attachments/assets/d0c195fe-1586-4285-a18a-62088a579e3b
-![image](https://github.com/user-attachments/assets/3fc54389-3244-4cb8-9a36-e8e2f31c3532)
-![image](https://github.com/user-attachments/assets/6c04064c-3b87-44bd-983f-962492446cf5)
+![image](https://github.com/user-attachments/assets/26aea5d8-fda9-40c8-99e3-7b6bfaa028db)
+![image](https://github.com/user-attachments/assets/9d8e2bdf-32d1-4dc5-8f6b-f18708a48e72)
+
 
 
 ---
