@@ -126,8 +126,9 @@ main.exe
 
 2. **OpenGL Version Unsupported:**
    - Update your GPU drivers to the latest version.
-   - 
-   ---
+
+
+---
    ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
