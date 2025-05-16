@@ -126,6 +126,9 @@ main.exe
 
 2. **OpenGL Version Unsupported:**
    - Update your GPU drivers to the latest version.
+     
+3. **Shader Compilation Errors:**
+   - Check for detailed error messages in the console.
 
 
 ---
@@ -133,5 +136,3 @@ main.exe
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-4. **Shader Compilation Errors:**
-   - Check for detailed error messages in the console.
